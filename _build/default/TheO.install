@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/TheO/META"
-  "_build/install/default/lib/TheO/dune-package"
-  "_build/install/default/lib/TheO/opam"
-]
-bin: [
-  "_build/install/default/bin/TheO"
-]
