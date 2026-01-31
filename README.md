@@ -1,0 +1,19 @@
+# A small esolang based on King Vons song Took Her to the O. 
+
+Example
+
+-- 
+
+```
+Von, Von Huh? What?
+Just got some top, from this stripper bitch, she from foo
+Now I'm like foo "Hello, World" I hopped out so quick, then I raised my blick
+Told that bitch foo cuz she lookin' confused
+He don't want no smoke boy he not bulletproof
+
+```
+Output: 
+
+`Hello, World`
+
+

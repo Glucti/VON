@@ -1,6 +1,6 @@
 (library
  (name TheO)
- (modules lexer parser))
+ (modules lexer parser ast eval))
 
 (ocamllex lexer)
 (menhir (modules parser))

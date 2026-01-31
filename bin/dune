@@ -1,4 +1,4 @@
 (executable
- (public_name TheO)
+ (public_name von)
  (name main)
  (libraries TheO))
