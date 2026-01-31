@@ -1,0 +1,6 @@
+# dune init project TheO
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/powqy/.cache/dune/db
+# Workspace root: /home/powqy/Desktop/ocaml/TheO
+# Auto-detected concurrency: 12

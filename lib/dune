@@ -1,0 +1,8 @@
+(library
+ (name TheO)
+ (modules lexer parser))
+
+(ocamllex lexer)
+(menhir (modules parser))
+
+
